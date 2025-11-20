@@ -6,5 +6,5 @@ nums.sort()
 
 nums.reverse()
 
-print("Sorted Integers")
+print("Sorted Integers", nums)
 
