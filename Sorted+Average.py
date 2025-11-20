@@ -6,10 +6,8 @@ nums.sort()
 
 nums.reverse()
 
-print("Sorted Integers")
-
-print(*nums)
+print("Sorted Integers", nums)
 
 average = sum(nums)/ len(nums)
 
-print ("The Average of the inputed numbers is: ", average)
+print ("The Average of the inputted numbers is: ", average)
